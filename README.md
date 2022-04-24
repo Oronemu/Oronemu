@@ -1,16 +1,23 @@
 ### Hi there 👋
+# This is Oronemu! 
 
-<!--
-**Oronemu/Oronemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer // Student
+### Personal Info
+- 👨‍🎓 2th year student at Kemerovo State University University
+- 🖥 I study in the direction of Fundamental Informatics and Information Technology  
+- 🍎 I am currently studying IOS development and running some pet projects
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://docs.swift.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> </a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Socials
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oronemu)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='VK' height='40'>](https://vk.com/oronemu)
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oronemu&show_icons=true&count_private=true&theme=dracula&hide_border=true)  
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oronemu&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
