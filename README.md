@@ -16,8 +16,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oronemu)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='VK' height='40'>](https://vk.com/oronemu)
 
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oronemu&show_icons=true&count_private=true&theme=dracula&hide_border=true)  
+<img align="left" alt="Oronemu" src="https://github-readme-stats.vercel.app/api?username=oronemu&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true" />
+<img align="left" alt="Oronemu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oronemu&layout=compact&hide_border=true&hide_title=true&card_width=200" />
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oronemu&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
