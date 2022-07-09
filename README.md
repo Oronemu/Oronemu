@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 # This is Oronemu! 
 
 ### Developer // Student
 ### Personal Info
-- 👨‍🎓 2th year student at Kemerovo State University University
+- 👨‍🎓 3th year student at Kemerovo State University University
 - 🖥 I study in the direction of Fundamental Informatics and Information Technology  
 - 🍎 I am currently studying IOS development and running some pet projects
 
