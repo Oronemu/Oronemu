@@ -3,7 +3,7 @@
 
 ### Developer // Student
 ### Personal Info
-- 👨‍🎓 3th year student at Kemerovo State University University
+- 👨‍🎓 3th year student at Kemerovo State University
 - 🖥 I study in the direction of Fundamental Informatics and Information Technology  
 - 🍎 I am currently studying IOS development and running some pet projects
 
